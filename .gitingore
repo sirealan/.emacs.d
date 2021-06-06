@@ -1,9 +1,9 @@
 
 '#init.el#'
 custom.el
-eshell
+/eshell/
 *el~
 lisp/*el~
-auto-save-list
-elpa
-recentf
+/auto-save-list/
+/elpa/
+/recentf/
