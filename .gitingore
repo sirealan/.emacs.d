@@ -1,0 +1,9 @@
+
+'#init.el#'
+custom.el
+eshell
+*el~
+lisp/*el~
+auto-save-list
+elpa
+recentf
